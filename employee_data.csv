@@ -1,0 +1,21 @@
+employee_id,job_title,hourly_rate,date_hired
+0,Store Owner,36.73,2019-02-06
+1,Manager,23.41,2020-01-05
+2,Manager,24.64,2020-04-13
+3,Cashier,16.26,2021-06-23
+4,Cashier,16.11,2021-07-14
+5,Staff Member,15.87,2021-08-23
+6,Staff Member,15.14,2022-01-24
+7,Staff Member,15.15,2022-10-25
+8,Staff Member,15.8,2022-11-16
+9,Cashier,16.19,2022-11-20
+10,Staff Member,15.94,2023-05-29
+11,Staff Member,15.97,2023-06-03
+12,Staff Member,15.87,2023-06-29
+13,Staff Member,15.47,2023-07-07
+14,Staff Member,16.18,2023-07-30
+15,Cashier,17.46,2023-08-16
+16,Staff Member,15.9,2024-03-18
+17,Staff Member,16.06,2024-04-16
+18,Staff Member,16.44,2024-05-05
+19,Cashier,16.26,2025-03-25
