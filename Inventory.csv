@@ -1,0 +1,25 @@
+ITEM_ID,ITEM_NAME,SUPPLY,UNIT,COST
+100,Black Tea Leaves/Bags,852,bags,0.15
+101,Green Tea Leaves/Bags,715,bags,0.15
+102,Oolong Tea Leaves/Bags,460,bags,0.18
+103,Thai Tea Mix,621,grams (g),0.20
+104,Culinary Grade Matcha Powder,318,grams (g),0.60
+105,Whole Milk / Milk Alternative Base,545,fluid ounces (fl oz),0.15
+106,Almond Milk,183,fluid ounces (fl oz),0.22
+107,Coconut Milk,240,fluid ounces (fl oz),0.75
+108,Condensed Milk,155,fluid ounces (fl oz),0.18
+109,Heavy Cream (for foams/creams),86,fluid ounces (fl oz),0.30
+110,Taro Powder,429,grams (g),0.60
+111,Coffee (Espresso or Concentrate),490,fluid ounces (fl oz),0.50
+112,Strawberry Puree / Syrup,211,fluid ounces (fl oz),0.70
+113,Mango Puree / Syrup,267,fluid ounces (fl oz),0.75
+114,Peach Puree / Syrup,194,fluid ounces (fl oz),0.65
+115,Passion Fruit Puree / Syrup,112,fluid ounces (fl oz),0.80
+116,Lemon Juice (for lemonade),95,fluid ounces (fl oz),0.50
+117,Brown Sugar Syrup / Cane Sugar,2500,grams (g),0.10
+118,Honey,224,fluid ounces (fl oz),0.25
+119,Boba (Tapioca Pearls),1200,grams (g),0.25
+120,Filtered Water & Ice,9999,servings,0.02
+200,16oz Plastic Cup,1500,units,0.12
+201,16oz Cup Lid,1500,units,0.05
+202,Boba Straw,3000,units,0.04
