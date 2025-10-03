@@ -1,21 +1,21 @@
-employee_id,job_title,hourly_rate,date_hired
-0,Store Owner,36.73,2019-02-06
-1,Manager,23.41,2020-01-05
-2,Manager,24.64,2020-04-13
-3,Cashier,16.26,2021-06-23
-4,Cashier,16.11,2021-07-14
-5,Staff Member,15.87,2021-08-23
-6,Staff Member,15.14,2022-01-24
-7,Staff Member,15.15,2022-10-25
-8,Staff Member,15.8,2022-11-16
-9,Cashier,16.19,2022-11-20
-10,Staff Member,15.94,2023-05-29
-11,Staff Member,15.97,2023-06-03
-12,Staff Member,15.87,2023-06-29
-13,Staff Member,15.47,2023-07-07
-14,Staff Member,16.18,2023-07-30
-15,Cashier,17.46,2023-08-16
-16,Staff Member,15.9,2024-03-18
-17,Staff Member,16.06,2024-04-16
-18,Staff Member,16.44,2024-05-05
-19,Cashier,16.26,2025-03-25
+employee_id,employee_name,job_title,hourly_rate,date_hired
+0,Taylor Reyes,Store Owner,38.03,2019-02-06
+1,Paula Smith,Manager,24.65,2019-03-20
+2,Aaron Harrison,Manager,22.95,2019-12-10
+3,Michael Copeland,Staff Member,15.9,2021-01-11
+4,Jaime Winters,Staff Member,16.25,2021-01-26
+5,Gary Smith,Staff Member,15.61,2021-07-24
+6,Jared Black,Staff Member,16.32,2022-05-28
+7,Robert Noble,Staff Member,16.18,2022-12-11
+8,Miss Sandra Silva,Cashier,16.34,2023-02-02
+9,Kristi Cuevas,Cashier,16.3,2023-05-06
+10,Sandra Pena,Cashier,17.19,2023-06-14
+11,Denise Roach,Staff Member,15.82,2023-07-23
+12,Michael Parrish,Staff Member,15.51,2023-08-14
+13,Nicole Greene,Cashier,17.02,2023-12-18
+14,Emily Cooper,Staff Member,16.15,2024-04-28
+15,Vanessa Newton,Staff Member,15.25,2024-05-15
+16,Shannon Lawrence,Cashier,17.42,2024-09-11
+17,Amy Arnold,Staff Member,16.41,2024-10-10
+18,Kyle Wilson,Staff Member,15.05,2025-04-04
+19,Denise Martin,Staff Member,15.88,2025-08-14
