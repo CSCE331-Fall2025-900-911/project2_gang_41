@@ -23,6 +23,7 @@ temp_employee_list = []
 owner_hire_date = date(2019, 2, 6)
 owner_rate = round(random.uniform(job_pay_scales["Store Owner"]["min"], job_pay_scales["Store Owner"]["max"]), 2)
 temp_employee_list.append({
+    "employee_name": fake.name(), # <-- ADDED
     "job_title": "Store Owner",
     "hourly_rate": owner_rate,
     "date_hired": owner_hire_date
@@ -53,6 +54,7 @@ for job_title in remaining_jobs:
         hire_date = fake.date_between(start_date=staff_start_date, end_date=staff_end_date)
     
     temp_employee_list.append({
+        "employee_name": fake.name(), # <-- ADDED
         "job_title": job_title,
         "hourly_rate": hourly_rate,
         "date_hired": hire_date,
@@ -66,6 +68,7 @@ employee_data = []
 for index, record in enumerate(temp_employee_list):
     employee_data.append({
         "employee_id": index, # Assign ID based on the sorted order
+        "employee_name": record['employee_name'], # <-- ADDED
         "job_title": record['job_title'],
         "hourly_rate": record['hourly_rate'],
         "date_hired": record['date_hired']
